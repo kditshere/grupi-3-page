@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to open Data Kosovo
 
 You can use the [editor on GitHub](https://github.com/kditshere/grupi-3-page/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -18,8 +18,8 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. **Numbered**
+2. **List**
 
 **Bold** and _Italic_ and `Code` text
 
